@@ -1,0 +1,11 @@
+[Added Associations]
+application/x-shellscript=atom.desktop;kitty-open.desktop;
+image/jpeg=org.gnome.gThumb.desktop;
+application/x-raw-disk-image=org.gnome.Nautilus.desktop;atom.desktop;
+application/x-xz-compressed-tar=org.gnome.Nautilus.desktop;
+text/plain=atom.desktop;
+image/png=org.gnome.gThumb.desktop;
+
+[Default Applications]
+inode/directory=nautilus.desktop
+x-scheme-handler/discord-396515353498484736=discord-396515353498484736.desktop
